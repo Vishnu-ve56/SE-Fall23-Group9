@@ -7,7 +7,7 @@
 5. [GITS2.1-I.R.I.S](#project-5-gits21-iris)
 
 
-## Project 1:  [units_converter_extension](https://github.com/NCSU-S/units_converter_extension)
+## Project 1: [units_converter_extension](https://github.com/NCSU-S/units_converter_extension)
 
 |Description|Rating|Notes|
 |-----|---------|-------|
@@ -113,7 +113,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Short release cycles |2|Two close releases have been made|
 
 
-## Project 2:  [TeachersPetBot](https://github.com/chandur626/TeachersPetBot)
+## Project 2: [TeachersPetBot](https://github.com/chandur626/TeachersPetBot)
 
 |Description|Rating|Notes|
 |-----|---------|-------|
