@@ -26,3 +26,13 @@ While Python modules installed smoothly, installing Node.js packages via `npm in
 Upon addressing installation errors, we ran the Python server, but it displayed FastAPI docs on the index page. It wasn't clear whether this was the intended behavior, as the documentation lacked server startup instructions and error indicators. Subsequently, we attempted to run the Node.js client with `npm run start`, but it terminated due to an OpenSSL error. Even with online resources, we couldn't resolve this issue, causing us to abandon our **slash**  project installation efforts.
 
 For future projects, we commit to providing comprehensive documentation, including red flag indicators for potential issues and clear indications of successful server operation. We commit to fully utilize Docker to address any potential version changes in future. We'll also supply additional references to assist users in installing required dependencies, ensuring a smoother experience for all users.
+
+
+## Project 4: [ScheduleBot](https://github.com/SEProjGrp5/ScheduleBot.git)
+
+As we attempted to run the Schedulebot which is a Python application that helps you calendarize events and work through a Discord bot, there were a few obstacles we dealt with.
+Firstly, when aiming to run the requirements.txt, there were no versions specified for Python and discord. Assuming that the latest versions would work, we tried to run it which resulted in errors. Upon further discovery, the Discord version 1.0 worked better with the discord.py libraries that were used in the python code. he bot then worked smoothly, scheduling the events as per necessity. 
+
+When attempting to establish the integration of Google calender with the bot, we encountered a hurdle where the system denied our request because of insufficient permissions. This issue was due to the complex authorization process required to access Google Calendar data. Navigating the OAuth 2.0 authentication flow, configuring API credentials, and managing scopes lead to errors in permissions management. Ensuring that the bot account and the associated Google API project have the necessary permissions, as well as correctly configuring the OAuth consent screen, became a critical task. It also demanded careful attention to privacy and security concerns, as dealing with calendar events involves sensitive information. 
+
+A detailed documentation specifying the integration and use of the Geocoding API would have been a valuable enhancement making the process easier. Resolving these permission-related challenges required thorough documentation review and configuration adjustments to establish a secure and functional connection between the Discord bot and Google Calendar.
