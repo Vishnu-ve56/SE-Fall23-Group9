@@ -1,6 +1,13 @@
 # Scores of 5 Projects
 
+1. [units_converter_extension](#project-1-units_converter_extension)
+2. [TeachersPetBot](#project-2-teacherspetbot)
+3. [slash](#project-3-slash)
+4. [ScheduleBot](#project-4-schedulebot)
+5. [GITS2.1-I.R.I.S](#project-5-gits21-iris)
 
+
+<a name="units_converter_extension"></a>
 ## Project 1:  [units_converter_extension](https://github.com/NCSU-S/units_converter_extension)
 
 |Description|Rating|Notes|
