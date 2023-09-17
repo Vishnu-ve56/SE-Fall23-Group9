@@ -1,6 +1,7 @@
-This file is a rubrics sheet for project .
+# Scores of 5 Projects
 
-Project 1:  https://github.com/NCSU-S/units_converter_extension
+
+## Project 1:  [units_converter_extension](https://github.com/NCSU-S/units_converter_extension)
 
 |Description|Rating|Notes|
 |-----|---------|-------|
@@ -106,7 +107,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Short release cycles |2|Two close releases have been made|
 
 
-Project 2: https://github.com/chandur626/TeachersPetBot#instrun
+## Project 2:  [TeachersPetBot](https://github.com/chandur626/TeachersPetBot)
 
 |Description|Rating|Notes|
 |-----|---------|-------|
@@ -211,8 +212,7 @@ Project 2: https://github.com/chandur626/TeachersPetBot#instrun
 |Short release cycles |3||
 
 
-
-Project 3: https://github.com/NCSU-Group7-SE2021/slash
+## Project 3: [slash](https://github.com/NCSU-Group7-SE2021/slash)
 
 |Description|Rating|Notes|
 |-----|---------|-------|
@@ -316,7 +316,8 @@ Project 3: https://github.com/NCSU-Group7-SE2021/slash
 |Evidence that the members of the team are working across multiple places in the code base|3||
 Short release cycles |3||
 
-Project 4: https://github.com/SEProjGrp5/ScheduleBot.git
+
+## Project 4: [ScheduleBot](https://github.com/SEProjGrp5/ScheduleBot.git)
 
 |Description|Rating|Notes|
 |-----|---------|-------|
@@ -421,8 +422,7 @@ Project 4: https://github.com/SEProjGrp5/ScheduleBot.git
 |Short release cycles |3|Frequency of commits (https://github.com/lyonva/ScheduleBot/graphs/contributors)|
 
 
-
-Project 5: https://github.com/jayrshah98/GITS2.1-I.R.I.S
+## Project 5: [GITS2.1-I.R.I.S](https://github.com/jayrshah98/GITS2.1-I.R.I.S)
 
 |Description|Rating|Notes|
 |-----|---------|-------|
