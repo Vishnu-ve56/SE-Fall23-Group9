@@ -115,6 +115,8 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 
 ## Project 2: [TeachersPetBot](https://github.com/chandur626/TeachersPetBot)
 
+Total Score: 226
+
 |Description|Rating|Notes|
 |-----|---------|-------|
 |Does your website and documentation provide a clear, high-level overview of your software?|3||
@@ -187,8 +189,8 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?|1||
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?|0||
 |Do you make timely announcements of the deprecation of components, APIs, etc.?|0||
-|Video|2min video of new functionality, showing a significant delta from prior.|3||
-|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... but nevertheless, here is a track record that everyone is contributing a lot)|evidence in GH|3| Contributor stats|
+|Video: 2 min video of new functionality, showing a significant delta from prior.|3||
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... but nevertheless, here is a track record that everyone is contributing a lot) evidence in GH|3| Contributor stats|
 |Number of commits|3|Commits|
 |Number of commits: by different people|3|Commits|
 |Issues reports: there are **many**|2|Bug reports|
@@ -219,8 +221,6 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 
 
 ## Project 3: [slash](https://github.com/NCSU-Group7-SE2021/slash)
-
-**Total Score: 218**
 
 |Description|Rating|Notes|
 |-----|---------|-------|
