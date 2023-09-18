@@ -331,6 +331,8 @@ Short release cycles |3||
 
 ## Project 4: [ScheduleBot](https://github.com/SEProjGrp5/ScheduleBot.git)
 
+Total Score: 204
+
 |Description|Rating|Notes|
 |-----|---------|-------|
 |Does your website and documentation provide a clear, high-level overview of your software?|3||
@@ -404,7 +406,7 @@ Short release cycles |3||
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?|3|Its funded by all contributors|
 |Do you make timely announcements of the deprecation of components, APIs, etc.?|NA|No rollbacks|
 |Video||see Readme|
-|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... but nevertheless, here is a track record that everyone is contributing a lot)|evidence in GH|3| GitHub Contributions(https://github.com/lyonva/ScheduleBot/graphs/contributors)|
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... but nevertheless, here is a track record that everyone is contributing a lot)|3|evidence in GH, GitHub Contributions(https://github.com/lyonva/ScheduleBot/graphs/contributors)|
 |Number of commits|3|GitHub Contributions(https://github.com/lyonva/ScheduleBot/graphs/contributors)|
 |Number of commits: by different people|3|GitHub Contributions(https://github.com/lyonva/ScheduleBot/graphs/contributors)|
 |Issues reports: there are **many**|3|GH Issues (https://github.com/lyonva/ScheduleBot/issues)|
