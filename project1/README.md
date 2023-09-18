@@ -9,6 +9,8 @@
 
 ## Project 1: [units_converter_extension](https://github.com/NCSU-S/units_converter_extension)
 
+Total Score: 186
+
 |Description|Rating|Notes|
 |-----|---------|-------|
 |Does your website and documentation provide a clear, high-level overview of your software?|3||
@@ -433,6 +435,8 @@ Short release cycles |3||
 
 
 ## Project 5: [GITS2.1-I.R.I.S](https://github.com/jayrshah98/GITS2.1-I.R.I.S)
+
+Total Score: 202
 
 |Description|Rating|Notes|
 |-----|---------|-------|
