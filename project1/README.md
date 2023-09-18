@@ -222,6 +222,8 @@ Total Score: 226
 
 ## Project 3: [slash](https://github.com/NCSU-Group7-SE2021/slash)
 
+Total Score: 218
+
 |Description|Rating|Notes|
 |-----|---------|-------|
 |Does your website and documentation provide a clear, high-level overview of your software?|3||
