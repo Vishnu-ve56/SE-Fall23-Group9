@@ -1,6 +1,6 @@
 |Description|Rating|Notes|
 |-----|---------|-------|
-|Does your website and documentation provide a clear, high-level overview of your software?|3||
+|Does your website and documentation provide a clear, high-level overview of your software?|3|Yes|
 |Does your website and documentation clearly describe the type of user who should use your software?|3| Explicitly mentioned the target audience|
 |Do you publish case studies to show how your software has been used by yourself and others?|||
 |Is the name of your project/software unique?|1|Name is common|
@@ -23,7 +23,7 @@
 |Are e-mails to your support e-mail address received by more than one person?|0|There is no support contact in place|
 |Does your project have a ticketing system to manage bug reports and feature requests?|0||
 |Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?|0||
-|Is your software’s architecture and design modular?|3||
+|Is your software’s architecture and design modular?|3|Yes|
 |Does your software use an accepted coding standard or convention?|3||
 |Does your software allow data to be imported and exported using open data formats?|0||
 |Does your software allow communications using open communications protocols?|3|Multi-platform through Discord, either native or online clients|
@@ -74,10 +74,10 @@
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
 but nevertheless, here is a track record that everyone is contributing a lot)|3|Evidence in GH, Github Contributions|
 |Number of commits|3|Github Contributions|
-|Number of commits: by different people|3||
-|Issues reports: there are **many**|2||
-|Issues are being closed|3||
-|DOI badge: exists|3||
+|Number of commits: by different people|3| Github Contributions|
+|Issues reports: there are **many**|2|GH Issues|
+|Issues are being closed|3|GH Issues|
+|DOI badge: exists|3|Readme.md|
 |Docs: doco generated, format not ugly |3||
 |Docs: what: point descriptions of each class/function (in isolation) |3|
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|2||
