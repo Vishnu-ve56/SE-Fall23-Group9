@@ -1,7 +1,7 @@
 ## New Additions:
 
-<img width=900 src="proj2/img/WhatsApp Image 2023-10-18 at 4.55.41 PM.jpeg">
-<img width=900 src="proj2/img/WhatsApp Image 2023-10-18 at 4.55.49 PM.jpeg">
+<img width=900 src="/proj2/img/WhatsApp Image 2023-10-18 at 4.55.41 PM.jpeg">
+<img width=900 src="/proj2/img/WhatsApp Image 2023-10-18 at 4.55.49 PM.jpeg">
 
 
 
