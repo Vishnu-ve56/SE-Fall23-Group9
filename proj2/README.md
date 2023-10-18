@@ -1,3 +1,8 @@
+
+
+Watch the demonstration of ScheduleBot with new feature here: https://www.youtube.com/watch?v=SOvLwvlyjiE
+
+
 |Description|Rating|Notes|
 |-----|---------|-------|
 |Does your website and documentation provide a clear, high-level overview of your software?|3|Yes|
