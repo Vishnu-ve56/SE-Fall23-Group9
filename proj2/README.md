@@ -16,8 +16,7 @@ Previously, the events and all other data were stored in a file-folder hierarchy
 
 ### Demo
 
-Watch the demonstration of ScheduleBot with new feature here: https://www.youtube.com/watch?v=SOvLwvlyjiE
-
+Watch the demonstration of ScheduleBot with new feature here: https://youtu.be/dpqK9mt-y28?si=pEcUhaD2_mjGg3jn
 
 |Description|Rating|Notes|
 |-----|---------|-------|
