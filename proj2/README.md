@@ -22,9 +22,9 @@ Watch the demonstration of ScheduleBot with new feature here: https://youtu.be/d
 |-----|---------|-------|
 |Does your website and documentation provide a clear, high-level overview of your software?|3|[Yes](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
 |Does your website and documentation clearly describe the type of user who should use your software?|3| [Explicitly mentioned the target audience](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
-|Do you publish case studies to show how your software has been used by yourself and others?|3|Yes,[here](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
-|Is the name of your project/software unique?|1|Name is common|
-|Is your project/software name free from trademark violations?|0|Apparently there is a character (https://powerpuffgirls.fandom.com/wiki/Schedulebot) and another bot (https://mellamopablo.github.io/schedulebot/)|
+|Do you publish case studies to show how your software has been used by yourself and others?|3|Yes,[it's here](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
+|Is the name of your project/software unique?|1|It is a common name.|
+|Is your project/software name free from trademark violations?|0|Apparently there is a [character](https://powerpuffgirls.fandom.com/wiki/Schedulebot) and another [bot] (https://mellamopablo.github.io/schedulebot/)|
 |Is your software available as a package that can be deployed without building it?|2|Its on Python, but dependencies need to be installed|
 |Is your software available for free?|3|[Yes](https://github.com/SE-Fall23-Group9/ScheduleBot)|
 |Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|3| [Yes](https://github.com/SE-Fall23-Group9/ScheduleBot)|
