@@ -60,7 +60,7 @@ Watch the demonstration of ScheduleBot with new feature here: https://youtu.be/d
 |Do you provide publicly-available instructions for deploying your software?|3|[Yes](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
 |Does your documentation list all third-party dependencies?|3|All required packages are available on [requirements.txt](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/requirements.txt)|
 |Does your documentation list the version number for all third-party dependencies?|2| [Most of the cases](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/requirements.txt)|
-|Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?|2|[Most of them](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/requirements.txt))|
+|Does your software list the web address, and licences for all third-party dependencies and say whether the dependencies are mandatory or optional?|2|[Most of them](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/requirements.txt)|
 |Can you download dependencies using a dependency management tool or package manager?|3|run pip install -r requirements.txt|
 |Do you have tests that can be run after your software has been built or deployed to show whether the build or deployment has been successful?|3|All in the [test](https://github.com/SE-Fall23-Group9/ScheduleBot/tree/main/test) directory|
 |Do you have an automated test suite for your software?|3|Through [github actions](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/.github/workflows/python-app.yml)|
@@ -76,7 +76,7 @@ Watch the demonstration of ScheduleBot with new feature here: https://youtu.be/d
 |Do you list third-party publications that refer to your software on your website or link to a resource where these are available?|0||
 |Can users subscribe to notifications to changes to your source code repository?|0||
 |If your software is developed as an open source project (and, not just a project developing open source software), do you have a governance model?|0||
-|Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?|3|Issues are ope, repo is open|
+|Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?|3|Issues are open, repo is open|
 |Do you have a contributions policy?|3|[CONTRIBUTING.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/CONTRIBUTING.md)|
 |Is your contributions' policy publicly available?|3|[CONTRIBUTING.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/CONTRIBUTING.md)|
 |Do contributors keep the copyright/IP of their contributions?|1|maybe? [MIT license](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/LICENSE) is not specific|
@@ -95,15 +95,15 @@ Watch the demonstration of ScheduleBot with new feature here: https://youtu.be/d
 but nevertheless, here is a track record that everyone is contributing a lot)|3|Evidence in GH, [Github Contributions](https://github.com/SE-Fall23-Group9/ScheduleBot/graphs/contributors)|
 |Number of commits|3|[Github Contributions](https://github.com/SE-Fall23-Group9/ScheduleBot/graphs/contributors)|
 |Number of commits: by different people|3|[Github Contributions](https://github.com/SE-Fall23-Group9/ScheduleBot/graphs/contributors)|
-|Issues reports: there are **many**|2|[GH Issues](https://github.com/lyonva/ScheduleBot/issues)|
-|Issues are being closed|3|[GH Issues](https://github.com/lyonva/ScheduleBot/issues|
+|Issues reports: there are **many**|2|[GH Issues](https://github.com/Vishnu-ve56/SE-Fall23-Group9/issues)|
+|Issues are being closed|3|[GH Issues](https://github.com/Vishnu-ve56/SE-Fall23-Group9/issues)|
 |DOI badge: exists|3|[README.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
 |Docs: doco generated, format not ugly |3|[Documentation](https://github.com/SE-Fall23-Group9/ScheduleBot/tree/main/docs)|
 |Docs: what: point descriptions of each class/function (in isolation) |3|[Documentation](https://github.com/SE-Fall23-Group9/ScheduleBot/tree/main/docs)|
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|3|[README.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
 |Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|3|[README.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3|[README.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
-|Use of version control tools|3|You're here((https://github.com/SE-Fall23-Group9/ScheduleBot/)|
+|Use of version control tools|3|You're here(https://github.com/SE-Fall23-Group9/ScheduleBot/)|
 |Use of style checkers |3|Flake8:[Automated as A GH Action](https://github.com/SE-Fall23-Group9/ScheduleBot/actions),[Script](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/.github/workflows/python-app.yml)|
 |Use of code formatters. |3|Flake8:[Automated as A GH Action](https://github.com/SE-Fall23-Group9/ScheduleBot/actions),[Script](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/.github/workflows/python-app.yml)|
 |Use of syntax checkers. |3|Flake8:[Automated as A GH Action](https://github.com/SE-Fall23-Group9/ScheduleBot/actions),[Script](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/.github/workflows/python-app.yml) also [Test cases](https://github.com/SE-Fall23-Group9/ScheduleBot/tree/main/test)to a lesser extent|
