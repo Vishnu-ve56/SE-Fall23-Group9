@@ -1,5 +1,7 @@
 ## New Additions:
 
+The forked repo can be found [here]: (https://github.com/SE-Fall23-Group9/ScheduleBot)
+
 ### Feature 1: Group Scheduling
 
 As an upgrade we have added a group scheduling feature. Previously, the bot was able to schedule events and event types for a single user in DMs. However, now ,one can mention the users of the channel and for each mentioned user, the schedule gets created.
