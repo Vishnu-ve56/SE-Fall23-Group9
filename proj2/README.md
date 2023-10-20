@@ -39,8 +39,8 @@ Watch the demonstration of ScheduleBot with new feature here: https://youtu.be/d
 |Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?|2|We have the space for it on [Readme.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
 |Does your software describe how a user can get help with using your software?|3|[Readme.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)and our bot has a !help command.|
 |Does your website and documentation describe what support, if any, you provide to users and developers?|3|Issues can be publicly opened in the [repo](https://github.com/Vishnu-ve56/SE-Fall23-Group9/issues)|
-|Does your project have an e-mail address or forum that is solely for supporting users?|0|No|
-|Are e-mails to your support e-mail address received by more than one person?|0|There is no support contact in place|
+|Does your project have an e-mail address or forum that is solely for supporting users?|3|Yes, can be found in [Readme.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
+|Are e-mails to your support e-mail address received by more than one person?|3|Yes [Readme.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
 |Does your project have a ticketing system to manage bug reports and feature requests?|2|Issues can be opened [here](https://github.com/Vishnu-ve56/SE-Fall23-Group9/issues)|
 |Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?|3|Issues can be opened [here](https://github.com/Vishnu-ve56/SE-Fall23-Group9/issues)|
 |Is your software’s architecture and design modular?|3|[Yes](https://github.com/SE-Fall23-Group9/ScheduleBot/tree/main/src)|
