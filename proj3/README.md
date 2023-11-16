@@ -2,15 +2,12 @@
 
 The forked repo can be found [here]: (https://github.com/SE-Fall23-Group9/ScheduleBot)
 
-### Feature 1: Group Scheduling
+### Feature 1: 
 
-As an upgrade we have added a group scheduling feature. Previously, the bot was able to schedule events and event types for a single user in DMs. However, now ,one can mention the users of the channel and for each mentioned user, the schedule gets created.
 
 <img width=900 src="/proj2/img/WhatsApp Image 2023-10-18 at 4.55.49 PM.jpeg">
 
-### Feature 2: Database Storage
-
-Previously, the events and all other data were stored in a file-folder hierarchy and in csv files. Now, all the data gets stored efficiently in a mySQL database. Schedules are now read, written and updated on the configured database. 
+### Feature 2:
 
 
 <img width=900 src="/proj2/img/WhatsApp Image 2023-10-18 at 4.55.41 PM.jpeg">
@@ -18,7 +15,7 @@ Previously, the events and all other data were stored in a file-folder hierarchy
 
 ### Demo
 
-Watch the demonstration of ScheduleBot with new feature here: https://youtu.be/dpqK9mt-y28?si=pEcUhaD2_mjGg3jn
+Watch the demonstration of ScheduleBot with new feature here: 
 
 |Description|Rating|Notes|
 |-----|---------|-------|
