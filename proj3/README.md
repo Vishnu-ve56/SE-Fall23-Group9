@@ -9,15 +9,49 @@ While adding our expenses, we have a select set of categories pre loaded and ava
 
 <img width=500 src="/proj3/img/WhatsApp Image 2023-11-20 at 6.29.59 PM.jpeg">
 
-### Feature 2:
+### Feature 2: Delete Category
+
+When we allow a user to add their own category, we also give them freedom to delete existing and newly created categories. This feature allows users to take away categories that do not make sense to them and this allows personalisation and customization. 
+
+<img width=500 src="/proj3/img/WhatsApp Image 2023-11-20 at 6.30.28 PM.jpeg">
+
+### Feature 3: List Category
+
+This new feature allows users to see the categories that are present. This gives them a good sense of what to expect and if any modifications or additions are necessary, they can go ahead and make them. This feature was found lacking in the previous implementation and to view the list, the users always had to log a new expense. Now, with one command, the user has the ability to glance and view the whole set of pre-set and newly added categories.
+
+### Feature 4: Download expenses
+
+It is always easy to maintain a file of your expenses and have it downloaded in your local system. Keeping this in mind and considering modularity and seperation of concerns, a whole new module was developed which helps download the logged expenses. This downloads as a csv file onto the user's local system and this file can be easily subjected to data analysis if the user wishes. It can also be viewed as structured data which better helps the users. 
+
+<img width=500 src="/proj3/img/WhatsApp Image 2023-11-20 at 6.31.20 PM.jpeg">
+
+### Feature 5: Send Email
+
+Our bot via a single command possesses the capability of sending an email to your email id which contains the logged expenses as a CSV file.  By providing users with the option to receive expense data via email, we enhance the overall user experience and accessibility. Users can now access their data conveniently through their email, which can be more accessible than logging into the application.
+
+<img width=500 src="/proj3/img/WhatsApp Image 2023-11-20 at 6.31.40 PM.jpeg">
 
 
-<img width=900 src="/proj2/img/WhatsApp Image 2023-10-18 at 4.55.41 PM.jpeg">
+<img width=500 src="/proj3/img/WhatsApp Image 2023-11-20 at 6.32.16 PM.jpeg">
+
+### Feature 6: Open AI integration
+
+Until now the features implemented were straightforward and easy to use. Users these days prefer an even more simplification and we have the right solution for that ! Instead of filling out a questionarre where users are asked questions and based on the responses, the expense is logged accrodingly, we have upped the game and have implemented a version of NLP in our app. All you have to do is enter a sentence in lay man terms and our bot will pick up the key words and log the expense. For example, you can say " I spent 20 dollars on food on 12th Dec 2022" and our bot via the power of OpenAI API, it can pick up "20 dollars" as the expense, "food" as the category and "12th Dec 2022" as the date. This feature demonstrates good API design and usage, and it promotes modularity in our application.
+
+<img width=500 src="/proj3/img/WhatsApp Image 2023-11-20 at 6.32.37 PM.jpeg">
+
+<img width=500 src="/proj3/img/WhatsApp Image 2023-11-20 at 6.33.18 PM.jpeg">
+
+### Feature 7
+
+The basic UI which leverages existing appreance and features of Discord has been improved to provide a more intuitive and a user friendly, modern design. 
+
+<img width=500 src="/proj3/img/WhatsApp Image 2023-11-20 at 6.33.33 PM.jpeg">
 
 
 ### Demo
 
-Watch the demonstration of ScheduleBot with new feature here: 
+Watch the demonstration of ScheduleBot with new feature here: (https://www.youtube.com/watch?v=X3ZyGA6PUtM)
 
 |Description|Rating|Notes|
 |-----|---------|-------|
