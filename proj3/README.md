@@ -7,7 +7,7 @@ The forked repo can be found [here]: (https://github.com/SE-Fall23-Group9/FinBot
 While adding our expenses, we have a select set of categories pre loaded and available for use. However, modern day needs require modern day solutions where users need to have the freedom to create and add their own categories. To enable this customization and user freedom, we have developed an add category feature which helps add a whole new category to the existing category list and with this new category, the user can go ahead and log new expenses.
 
 
-<img width=900 src="/proj3/img/WhatsApp Image 2023-11-20 at 6.29.59 PM.jpeg">
+<img width=500 src="/proj3/img/WhatsApp Image 2023-11-20 at 6.29.59 PM.jpeg">
 
 ### Feature 2:
 
