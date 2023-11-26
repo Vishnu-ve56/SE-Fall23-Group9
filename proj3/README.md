@@ -53,6 +53,8 @@ The basic UI which leverages existing appreance and features of Discord has been
 
 Watch the demonstration of ScheduleBot with new feature here: (https://www.youtube.com/watch?v=X3ZyGA6PUtM)
 
+### Scorecard
+
 |Description|Rating|Notes|
 |-----|---------|-------|
 |Does your website and documentation provide a clear, high-level overview of your software?|3|[Yes](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
