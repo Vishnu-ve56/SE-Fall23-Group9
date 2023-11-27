@@ -1,6 +1,6 @@
 ## New Additions:
 
-The forked repo can be found [here]: (https://github.com/SE-Fall23-Group9/FinBot)
+The forked repo can be found here - https://github.com/SE-Fall23-Group9/FinBot
 
 ### Feature 1: Add Category
 
@@ -118,18 +118,17 @@ Watch the demonstration of ScheduleBot with new feature here: (https://www.youtu
 |Is your contributions' policy publicly available?|3|[CONTRIBUTING.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/CONTRIBUTING.md)|
 |Do contributors keep the copyright/IP of their contributions?|3|[MIT license](https://github.com/SE-Fall23-Group9/FinBot/blob/main/LICENSE) no they do not|
 |Does your website and documentation clearly state the copyright owners of your software and documentation?|3|[Yes]((https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md))|
-|Does each of your source code files include a copyright statement?|3||
+|Does each of your source code files include a copyright statement?|3|Yes|
 |Does your website and documentation clearly state the licence of your software?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Is your software released under an open source licence?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Is your software released under an OSI-approved open-source licence?|3|[Yes,MIT](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
-|Does each of your source code files include a licence header?|3||
+|Does each of your source code files include a licence header?|3|Yes|
 |Do you have a recommended citation for your software?|2|A DOI|
 |Does your website or documentation include a project roadmap (a list of project and development milestones for the next 3, 6 and 12 months)?|3|Yes, in the [README.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed?|3|By the contributors|
 |Do you make timely announcements of the deprecation of components, APIs, etc.?|0|No rollbacks|
 |Video : 2min video of new functionality, showing a significant delta from prior.|2| Only the [video of the latest realease](https://www.youtube.com/watch?v=X3ZyGA6PUtM) is present and this makes sense|
-|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
-but nevertheless, here is a track record that everyone is contributing a lot)|3|Evidence in GH, [Github Contributions](https://github.com/SE-Fall23-Group9/FinBot/graphs/contributors)|
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... but nevertheless, here is a track record that everyone is contributing a lot)|3|Evidence in GH, [Github Contributions](https://github.com/SE-Fall23-Group9/FinBot/graphs/contributors)|
 |Number of commits|3|[Github Contributions](https://github.com/SE-Fall23-Group9/FinBot/graphs/contributors)|
 |Number of commits: by different people|3|[Github Contributions](https://github.com/SE-Fall23-Group9/FinBot/graphs/contributors)|
 |Issues reports: there are **many**|2|[GH Issues](https://github.com/Vishnu-ve56/SE-Fall23-Group9/issues)|
