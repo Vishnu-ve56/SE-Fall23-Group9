@@ -40,9 +40,14 @@ Until now the features implemented were straightforward and easy to use. Users t
 
 <img width=500 src="/proj3/img/WhatsApp Image 2023-11-20 at 6.32.37 PM.jpeg">
 
+
+### Feature 7: Shared Expenses
+
+Not always will you have expenses for yourself. When you go out shopping with your friends or family, it is natural that the expenses would be split among the participants and this also means that each one would have their own individual expenses to be maintained. We now bring this feature to our bot where you can mention the user names and the incurred expense will be split among the participants. You can view individual expense records too. 
+
 <img width=500 src="/proj3/img/WhatsApp Image 2023-11-20 at 6.33.18 PM.jpeg">
 
-### Feature 7
+### Feature 8: UI upgrade
 
 The basic UI which leverages existing appreance and features of Discord has been improved to provide a more intuitive and a user friendly, modern design. 
 
