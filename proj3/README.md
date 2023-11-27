@@ -57,10 +57,10 @@ Watch the demonstration of ScheduleBot with new feature here: (https://www.youtu
 
 |Description|Rating|Notes|
 |-----|---------|-------|
-|Does your website and documentation provide a clear, high-level overview of your software?|3|[Yes](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
-|Does your website and documentation clearly describe the type of user who should use your software?|3| [Explicitly mentioned the target audience](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
-|Do you publish case studies to show how your software has been used by yourself and others?|3|[Yes](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
-|Is the name of your project/software unique?|1|It is a common name.|
+|Does your website and documentation provide a clear, high-level overview of your software?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
+|Does your website and documentation clearly describe the type of user who should use your software?|3| [Explicitly mentioned the target audience](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
+|Do you publish case studies to show how your software has been used by yourself and others?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
+|Is the name of your project/software unique?|3|It is a unique name.|
 |Is your project/software name free from trademark violations?|0|Apparently there is a [character](https://powerpuffgirls.fandom.com/wiki/Schedulebot) and another [bot] (https://mellamopablo.github.io/schedulebot/)|
 |Is your software available as a package that can be deployed without building it?|2|Its on Python, but dependencies need to be installed|
 |Is your software available for free?|3|[Yes](https://github.com/SE-Fall23-Group9/ScheduleBot)|
