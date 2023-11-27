@@ -63,20 +63,20 @@ Watch the demonstration of ScheduleBot with new feature here: (https://www.youtu
 |Is the name of your project/software unique?|3|It is a unique name.|
 |Is your project/software name free from trademark violations?|0|Apparently there is a [character](https://powerpuffgirls.fandom.com/wiki/Schedulebot) and another [bot] (https://mellamopablo.github.io/schedulebot/)|
 |Is your software available as a package that can be deployed without building it?|2|Its on Python, but dependencies need to be installed|
-|Is your software available for free?|3|[Yes](https://github.com/SE-Fall23-Group9/ScheduleBot)|
-|Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|3| [Yes](https://github.com/SE-Fall23-Group9/ScheduleBot)|
-|Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|3| [Yes, Repo available](https://github.com/SE-Fall23-Group9/ScheduleBot)|
-|Is your documentation clearly available on your website or within your software?|3|It is available in the [README.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
-|Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|3|[Yes](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
-|If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|3|Yes,(https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
-|Do you provide a comprehensive guide to all your software’s commands, functions and options?|2|[Yes](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
+|Is your software available for free?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot)|
+|Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository?|3| [Yes](https://github.com/SE-Fall23-Group9/FinBot)|
+|Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)?|3| [Yes, Repo available](https://github.com/SE-Fall23-Group9/FinBot)|
+|Is your documentation clearly available on your website or within your software?|3|It is available in the [README.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
+|Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
+|If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
+|Do you provide a comprehensive guide to all your software’s commands, functions and options?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?|0|There is no support to aid troubleshooting|
 |If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?|0|No|
 |Do you store your documentation under revision control with your source code?|3||
-|Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?|2|We have the space for it on [Readme.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
-|Does your software describe how a user can get help with using your software?|3|[Readme.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)and our bot has a !help command.|
+|Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?|2|We have the space for it on [Readme.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
+|Does your software describe how a user can get help with using your software?|3|[Readme.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Does your website and documentation describe what support, if any, you provide to users and developers?|3|Issues can be publicly opened in the [repo](https://github.com/Vishnu-ve56/SE-Fall23-Group9/issues)|
-|Does your project have an e-mail address or forum that is solely for supporting users?|3|Yes, can be found in [Readme.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
+|Does your project have an e-mail address or forum that is solely for supporting users?|3|Yes, can be found in [Readme.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Are e-mails to your support e-mail address received by more than one person?|3|Yes [Readme.md](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/README.md)|
 |Does your project have a ticketing system to manage bug reports and feature requests?|2|Issues can be opened [here](https://github.com/Vishnu-ve56/SE-Fall23-Group9/issues)|
 |Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests?|3|Issues can be opened [here](https://github.com/Vishnu-ve56/SE-Fall23-Group9/issues)|
