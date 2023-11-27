@@ -72,7 +72,7 @@ Watch the demonstration of ScheduleBot with new feature here: (https://www.youtu
 |Do you provide a comprehensive guide to all your software’s commands, functions and options?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages?|0|There is no support to aid troubleshooting|
 |If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation?|0|No|
-|Do you store your documentation under revision control with your source code?|3||
+|Do you store your documentation under revision control with your source code?|3|Yes, by using github|
 |Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation?|2|We have the space for it on [Readme.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Does your software describe how a user can get help with using your software?|3|[Readme.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Does your website and documentation describe what support, if any, you provide to users and developers?|3|Issues can be publicly opened in the [repo](https://github.com/Vishnu-ve56/SE-Fall23-Group9/issues)|
@@ -83,12 +83,12 @@ Watch the demonstration of ScheduleBot with new feature here: (https://www.youtu
 |Is your software’s architecture and design modular?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot/tree/main/src)|
 |Does your software use an accepted coding standard or convention?|3|Check [CONTRIBUTING.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/CONTRIBUTING.md)|
 |Does your software allow data to be imported and exported using open data formats?|2|Exports CSV Files|
-|Does your software allow communications using open communications protocols?|3|Discord and Telegram|
-|Is your software cross-platform compatible?|3|Multi-platform through Discord, either native or online clients|
+|Does your software allow communications using open communications protocols?|3|HTTP and REST APIs|
+|Is your software cross-platform compatible?|3|Multi-platform through Discord and telegram|
 |Does your software adhere to appropriate accessibility conventions or standards?|3|[code of conduct](https://github.com/SE-Fall23-Group9/FinBot/blob/main/CODE_OF_CONDUCT.md)|
 |Does your documentation adhere to appropriate accessibility conventions or standards?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Is your source code stored in a repository under revision control?|3|[yes](https://github.com/SE-Fall23-Group9/FinBot)|
-|Is each source code release a snapshot of the repository?|1|Previous releases are stored in [here](https://zenodo.org/records/10022718)|
+|Is each source code release a snapshot of the repository?|1|Previous releases are stored in [here](https://zenodo.org/records/10022718) and the latest release can be found [here](https://github.com/SE-Fall23-Group9/FinBot/releases)|
 |Are releases tagged in the repository?|3|Check [README.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)|2|[main](https://github.com/SE-Fall23-Group9/FinBot/tree/main),but not 100% of the time.|
 |Do you back-up your repository?|3|Each contributor constantly pulls from the repo, every release is stored in [releases](https://github.com/SE-Fall23-Group9/ScheduleBot/releases)|
@@ -116,9 +116,9 @@ Watch the demonstration of ScheduleBot with new feature here: (https://www.youtu
 |Do you accept contributions (e.g. bug fixes, enhancements, documentation updates, tutorials) from people who are not part of your project?|3|Issues are open, repo is open|
 |Do you have a contributions policy?|3|[CONTRIBUTING.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/CONTRIBUTING.md)|
 |Is your contributions' policy publicly available?|3|[CONTRIBUTING.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/CONTRIBUTING.md)|
-|Do contributors keep the copyright/IP of their contributions?|1|maybe? [MIT license](https://github.com/SE-Fall23-Group9/ScheduleBot/blob/main/LICENSE) is not specific|
+|Do contributors keep the copyright/IP of their contributions?|3|[MIT license](https://github.com/SE-Fall23-Group9/FinBot/blob/main/LICENSE) no they do not|
 |Does your website and documentation clearly state the copyright owners of your software and documentation?|3|[Yes]((https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md))|
-|Does each of your source code files include a copyright statement?|0|No|
+|Does each of your source code files include a copyright statement?|3||
 |Does your website and documentation clearly state the licence of your software?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Is your software released under an open source licence?|3|[Yes](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Is your software released under an OSI-approved open-source licence?|3|[Yes,MIT](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
@@ -142,15 +142,15 @@ but nevertheless, here is a track record that everyone is contributing a lot)|3|
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3|[README.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
 |Use of version control tools|3|[You're here](https://github.com/SE-Fall23-Group9/FinBot)|
 |Use of style checkers |3|[Automated as A GH Action](https://github.com/SE-Fall23-Group9/FinBot/actions),[Script](https://github.com/SE-Fall23-Group9/FinBot/blob/main/.github/workflows/black.yml)|
-|Use of code formatters. |3|Flake8:[Automated as A GH Action](https://github.com/SE-Fall23-Group9/FinBot/actions),[Script](https://github.com/SE-Fall23-Group9/FinBot/blob/main/.github/workflows/black.yml)|
-|Use of syntax checkers. |3|Flake8:[Automated as A GH Action](https://github.com/SE-Fall23-Group9/FinBot/actions),[Script](https://github.com/SE-Fall23-Group9/FinBot/blob/main/.github/workflows/black.yml) also [Test cases](https://github.com/SE-Fall23-Group9/FinBot/tree/main/test)to a lesser extent|
+|Use of code formatters. |3|PyLint:[Automated as A GH Action](https://github.com/SE-Fall23-Group9/FinBot/actions),[Script](https://github.com/SE-Fall23-Group9/FinBot/blob/main/.github/workflows/black.yml)|
+|Use of syntax checkers. |3|PyLint:[Automated as A GH Action](https://github.com/SE-Fall23-Group9/FinBot/actions),[Script](https://github.com/SE-Fall23-Group9/FinBot/blob/main/.github/workflows/black.yml) also [Test cases](https://github.com/SE-Fall23-Group9/FinBot/tree/main/test)to a lesser extent|
 |Use of code coverage |3|[Automated as A GH Action](https://github.com/SE-Fall23-Group9/FinBot/actions),[Script](https://github.com/SE-Fall23-Group9/FinBot/blob/main/.github/workflows/black.yml), also check the badge in [README.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/README.md)|
-|Other automated analysis tools|3|Flake8:[Automated as A GH Action](https://github.com/SE-Fall23-Group9/FinBot/actions),[Script](https://github.com/SE-Fall23-Group9/FinBot/blob/main/.github/workflows/black.yml)|
+|Other automated analysis tools|3|PyLint:[Automated as A GH Action](https://github.com/SE-Fall23-Group9/FinBot/actions),[Script](https://github.com/SE-Fall23-Group9/FinBot/blob/main/.github/workflows/black.yml)|
 |Test cases exist|3|[Test Directory](https://github.com/SE-Fall23-Group9/FinBot/tree/main/test)|
 |Test cases are routinely executed|3|[Automated as A GH Action](https://github.com/SE-Fall23-Group9/FinBot/actions),|
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3|[contributing.md](https://github.com/SE-Fall23-Group9/FinBot/blob/main/CONTRIBUTING.md)|
 |Issues are discussed before they are closed|2|[GH Issues](https://github.com/Vishnu-ve56/SE-Fall23-Group9/issues)|
-|Chat channel: exists|3|Discord chat channel and Telegram chat|
+|Chat channel: exists|3|Discord chat channel|
 |Test cases: a large proportion of the issues related to handling failing cases.|3|[GH Issues](https://github.com/Vishnu-ve56/SE-Fall23-Group9/issues)|
 |Evidence that the whole team is using the same tools: everyone can get to all tools and files|3|[Requirements.txt](https://github.com/SE-Fall23-Group9/FinBot/blob/main/requirements.txt)|
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3|[Requirements.txt](https://github.com/SE-Fall23-Group9/FinBot/blob/main/requirements.txt) frequently updated and[.gitignore](https://github.com/SE-Fall23-Group9/FinBot/blob/main/.gitignore) has also been updated with the different IDEs the team uses.|
